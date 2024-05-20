@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋
+general Kenobi!
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/XNA_but_less_tutorials-red?style=for-the-badge&logo=monogame">
 </div>
