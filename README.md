@@ -1,5 +1,10 @@
 ### Hello there 👋
 general Kenobi!
+
+### You fool!
+I've been trained in your Jedi arts, by Count Dooku.
+
+### A fine addition to my collection:
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/XNA_but_less_tutorials-red?style=for-the-badge&logo=monogame">
 </div>
